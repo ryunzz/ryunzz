@@ -2,14 +2,14 @@
 
 ###
 
-<p align="left">Last Update: 2/12/24</p>
+<p align="left">Last Update: 1/18/24</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ryunzz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&custom_title=Ryan%20Ni's%20Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ryunzz&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryunzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&custom_title=Most%20Used%20Language%20(By%20File%20Size)" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ryunzz&locale=en&mode=weekly&theme=discord_old_blurple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -68,12 +68,11 @@
   <tr>
     <td>Databases</td>
     <td>
+      <img src="https://img.shields.io/badge/SupaBase-4169E1?logo=supabase&logoColor=white&style=for-the-badge" height="22" alt="supabase logo"  />
       <img width="4" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="22" alt="firebase logo"  />
       <img width="4" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="22" alt="postgresql logo"  />
-      <img width="4" />
-      <img src="https://img.shields.io/badge/SupaBase-4169E1?logo=supabase&logoColor=white&style=for-the-badge" height="22" alt="supabase logo"  />
     </td>
   </tr>
   <tr>
