@@ -1,16 +1,105 @@
-## Hi there 👋
+<h2 align="left">hi, I'm Ryan Ni👋 - ‎ but I also go by @ryunzz!</h2>
 
-<!--
-**ryunzz/ryunzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Last Update: 2/12/24</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryunzz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&custom_title=Ryan%20Ni's%20Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ryunzz&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryunzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&custom_title=Most%20Used%20Language%20(By%20File%20Size)" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">⚡ Languages and Frameworks</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="22" alt="c logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="22" alt="cplusplus logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="22" alt="java logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="22" alt="python logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="22" alt="javascript logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="22" alt="typescript logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="22" alt="kotlin logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="22" alt="react logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="22" alt="nextjs logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" height="22" alt="svelte logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="22" alt="html5 logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="22" alt="tailwindcss logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="22" alt="materialui logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="22" alt="css3 logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="22" alt="express logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="22" alt="firebase logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="22" alt="postgresql logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="22" alt="socketio logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="22" alt="amazonwebservices logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="22" alt="docker logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="22" alt="jupyter logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="22" alt="numpy logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="22" alt="pandas logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="22" alt="tensorflow logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="22" alt="androidstudio logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="22" alt="flutter logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="22" alt="dart logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="22" alt="arduino logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge" height="22" alt="inkscape logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://ryan-ni.vercel.app/ryan.jpg"  />
+</div>
+
+###
+
+<h2 align="left">🏆 Hackathon Experiences</h2>
+
+###
+
+<p align="left">I've participated in a variety of hackathons, applying my skills in machine learning, web development, and more to solve real-world problems. Here's a snapshot of my journey:<br><br>For a detailed record of my hackathon participations and achievements, check out my profile here:<br><br>- 4 Hackathon Wins<br>- 4 Hackathons Attended<br><br>Frequently Used Technologies:</p>
+
+###
+
+<h2 align="left">👀 Check out my...</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/ryunzz/ryunzz/output/snake.svg" alt="Snake animation" />
+
+###
