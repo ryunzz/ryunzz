@@ -3,7 +3,7 @@
 <div 
   align="center" 
   style= border-radius: 25px;
-  background: #73AD21;
+  border:1px solid blue;
 >
   <img align="right" height="150" src="https://ryan-ni.vercel.app/ryan.jpg"  />
   
