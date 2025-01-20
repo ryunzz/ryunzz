@@ -2,14 +2,13 @@
 
 ###
 
-<p align="left">Last Update: 1/18/24</p>
+<p align="left">Last Update: 1/19/24</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ryunzz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&custom_title=Ryan%20Ni's%20Github%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryunzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&custom_title=Most%20Used%20Language%20(By%20File%20Size)" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ryunzz&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -61,7 +60,6 @@
   <tr>
     <td>Backend</td>
     <td>
-      <img width="4" />
       <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="22" alt="express logo"  />
     </td>
   </tr>
@@ -136,14 +134,34 @@
 
 ###
 
-<p align="left">I've participated in a variety of hackathons, applying my skills in machine learning, web development, and more to solve real-world problems. Here's a snapshot of my journey:<br><br>For a detailed record of my hackathon participations and achievements, check out my profile here:<br><br>- 4 Hackathon Wins<br>- 4 Hackathons Attended<br><br>Frequently Used Technologies:</p>
+<p align="left">I've participated in a variety of hackathons, applying my skills in machine learning, web development, and more to solve real-world problems. Here's a snapshot of my journey:<br><br>For a detailed record of my hackathon participations and achievements, check out my profile here:
+
+[![Devpost](https://img.shields.io/badge/Devpost-Profile-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/ryan-ni)
+
+- **4 Hackathon Wins**
+- **4 Hackathons Attended**
+
+**Frequently Used Technologies:**
+
+![React Badge](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
+![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
 ###
 
 <h2 align="left">👀 Check out my...</h2>
 
+[![portfolio_badge]](https://ryan-ni.vercel.app)
+[![linkedin_badge]](https://linkedin.com/in/ryan-ni)
+
 ###
 
 <img src="https://raw.githubusercontent.com/ryunzz/ryunzz/output/snake.svg" alt="Snake animation" />
 
-###
+
+<!-- Badges -->
+[portfolio_badge]: https://img.shields.io/badge/Portfolio%20Website-%230077B5.svg?style=flat-square&logo=buffer&logoColor=white
+[linkedin_badge]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white
