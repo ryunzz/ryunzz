@@ -4,7 +4,7 @@
 <img align="right" height="150" src="https://ryan-ni.vercel.app/ryan.jpg"  />
 
 <p align="left">
-  Software Engineer | Full Stack Developer<br>:round_pushpin:California,‎ ‎USA‎‎ ‎| :e_mail: rani@ucsd.edu
+  Software Engineer | Full Stack Developer<br>:round_pushpin:California,‎ ‎USA‎‎ ‎| 📧 rani@ucsd.edu
   <br>
   <br>
   I will be receiving my 2 B.S. (Bachelor of Science) Degrees in Computer Science & Cognitive Science (ML specialization) from UCSD in 2026. <br><br>Working on AWS SAA-CO3 & HPR NAR certifications
