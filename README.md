@@ -1,10 +1,14 @@
 <h2 align="left">hi, I'm Ryan Ni👋 - ‎ but I also go by @ryunzz!</h2>
 
-<div align="center">
+<div 
+  align="center" 
+  style= border-radius: 25px;
+  background: #73AD21;
+>
   <img align="right" height="150" src="https://ryan-ni.vercel.app/ryan.jpg"  />
   
   <div align="left">
-    **Software Engineer | Full Stack Developer**
+    Software Engineer | Full Stack Developer
     <br>
     :round_pushpin:California,‎ ‎USA‎‎ ‎| 📧 rani@ucsd.edu
     <br>
