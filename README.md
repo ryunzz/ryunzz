@@ -1,19 +1,23 @@
 <h2 align="left">hi, I'm Ryan Ni👋 - ‎ but I also go by @ryunzz!</h2>
 
-<div 
-  align="center" 
-  style= border-radius: 25px;
-  border:1px solid blue;
->
-  <img align="right" height="150" src="https://ryan-ni.vercel.app/ryan.jpg"  />
+<table>
+  <tr>
+    <td>
+      <div align="left">
+        Software Engineer | Full Stack Developer
+        <br>
+        :round_pushpin:California,‎ ‎USA‎‎ ‎| 📧 rani@ucsd.edu
+        <br>
+        I will be receiving my 2 B.S. (Bachelor of Science) Degrees in Computer Science & Cognitive Science (ML specialization) from UCSD in 2026. <br><br>Working on AWS SAA-CO3 & HPR NAR certifications
+      </div>  
+    </td>
+    <td>
+      <img align="right" height="150" src="https://ryan-ni.vercel.app/ryan.jpg"  />
+    </td>
+  </tr>
+</table>
   
-  <div align="left">
-    Software Engineer | Full Stack Developer
-    <br>
-    :round_pushpin:California,‎ ‎USA‎‎ ‎| 📧 rani@ucsd.edu
-    <br>
-    I will be receiving my 2 B.S. (Bachelor of Science) Degrees in Computer Science & Cognitive Science (ML specialization) from UCSD in 2026. <br><br>Working on AWS SAA-CO3 & HPR NAR certifications
-  </div>
+
 </div>
 
 
