@@ -1,5 +1,17 @@
 <h2 align="left">hi, I'm Ryan Ni👋 - ‎ but I also go by @ryunzz!</h2>
 
+
+<img align="right" height="150" src="https://ryan-ni.vercel.app/ryan.jpg"  />
+
+<p align="left">
+  Software Engineer | Full Stack Developer<br>:round_pushpin:California,‎ ‎USA‎‎ ‎| :e_mail: rani@ucsd.edu
+  <br>
+  <br>
+  I will be receiving my 2 B.S. (Bachelor of Science) Degrees in Computer Science & Cognitive Science (ML specialization) from UCSD in 2026. <br><br>Working on AWS SAA-CO3 & HPR NAR certifications
+</p>
+  
+
+
 ###
 
 <p align="left">Last Update: 1/19/24</p>
@@ -24,7 +36,7 @@
           <img width="4" />
           <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="22" alt="cplusplus logo"  />
           <img width="4" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="22" alt="java logo"  />
+          <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
           <img width="4" />
           <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="22" alt="python logo"  />
           <img width="4" />
@@ -77,6 +89,7 @@
     <td >Full Stack Libraries</td>
     <td>
       <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="22" alt="socketio logo"  />
+      <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -118,15 +131,6 @@
     </td>
   </tr>
 </table>
-
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://ryan-ni.vercel.app/ryan.jpg"  />
-</div>
 
 ###
 
