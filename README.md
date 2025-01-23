@@ -134,6 +134,11 @@
 - **4 Hackathon Wins**
 - **4 Hackathons Attended**
 
+4 🏆 #1 Best Project Overall                              - Cash Prize          ($300)
+3 🏆 #1 Best UI/UX                                        - 4x Wacom Tablet     
+2 🏆 #1 Best Empowerment for Minorities @ ACM Hacks 2023  - 4x Power Bank       
+1 🏆 #1 Best Beginner Hack @ Wilhacks 2.0                 - Jetson Nano Dev Kit 
+
 **Frequently Used Technologies:**
 
 ![React Badge](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
