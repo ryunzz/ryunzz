@@ -127,7 +127,7 @@
 
 ###
 
-<p align="left">I've participated in a variety of hackathons, applying my skills in machine learning, web development, and more to solve real-world problems. Here's a snapshot of my journey:<br><br>For a detailed record of my hackathon participations and achievements, check out my profile here:
+I've participated in a variety of hackathons, applying my skills in machine learning, web development, and more to solve real-world problems. Here's a snapshot of my journey:<br><br>For a detailed record of my hackathon participations and achievements, check out my profile here:
 
 [![Devpost](https://img.shields.io/badge/Devpost-Profile-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/ryan-ni)
 
