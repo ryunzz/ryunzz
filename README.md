@@ -134,8 +134,8 @@ I've participated in a variety of hackathons, applying my skills in machine lear
 - **4 Hackathon Wins**
 - **4 Hackathons Attended**
 
-4 🏆 #1 Best Project Overall                              - Cash Prize ($300)   
-3 🏆 #1 Best UI/UX                                        - 4x Wacom Tablet     
+4 🏆 #1 Best Project Overall @ IEEE 2024 FA QP            - Cash Prize ($300)   
+3 🏆 #1 Best UI/UX @ CruzHacks 2024                       - 4x Wacom Tablet     
 2 🏆 #1 Best Empowerment for Minorities @ ACM Hacks 2023  - 4x Power Bank       
 1 🏆 #1 Best Beginner Hack @ Wilhacks 2.0                 - Jetson Nano Dev Kit   
 
