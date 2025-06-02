@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Last Update: 1/19/24</p>
+<p align="left">Last Update: 6/1/25</p>
 
 ###
 
@@ -131,10 +131,12 @@ I've participated in a variety of hackathons, applying my skills in machine lear
 
 [![Devpost](https://img.shields.io/badge/Devpost-Profile-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/ryan-ni)
 
-- **4 Hackathon Wins**
-- **4 Hackathons Attended**
+- **6 Hackathon Wins**
+- **6 Hackathons Attended**
 
-4 🏆 #1 Best Project Overall @ IEEE 2024 FA QP            - Cash Prize ($300)   
+6 🏆 #1 Best Project Overall @ IEEE 2024 SPRING QP        - Cash Prize ($300)
+5 🏆 #2 Best Tech Innovation @ Bruin AI 2025              - Cash Prize ($250)
+4 🏆 #1 Best Project Overall @ IEEE 2024 FALL QP          - Cash Prize ($300)   
 3 🏆 #1 Best UI/UX @ CruzHacks 2024                       - 4x Wacom Tablet     
 2 🏆 #1 Best Empowerment for Minorities @ ACM Hacks 2023  - 4x Power Bank       
 1 🏆 #1 Best Beginner Hack @ Wilhacks 2.0                 - Jetson Nano Dev Kit   
