@@ -134,8 +134,8 @@ I've participated in a variety of hackathons, applying my skills in machine lear
 - **6 Hackathon Wins**
 - **6 Hackathons Attended**
 
-6 🏆 #1 Best Project Overall @ IEEE 2024 SPRING QP        - Cash Prize ($300)
-5 🏆 #2 Best Tech Innovation @ Bruin AI 2025              - Cash Prize ($250)
+6 🏆 #1 Best Project Overall @ IEEE 2024 SPRING QP        - Cash Prize ($300)  
+5 🏆 #2 Best Tech Innovation @ Bruin AI 2025              - Cash Prize ($250)  
 4 🏆 #1 Best Project Overall @ IEEE 2024 FALL QP          - Cash Prize ($300)   
 3 🏆 #1 Best UI/UX @ CruzHacks 2024                       - 4x Wacom Tablet     
 2 🏆 #1 Best Empowerment for Minorities @ ACM Hacks 2023  - 4x Power Bank       
