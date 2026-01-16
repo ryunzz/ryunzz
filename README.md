@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Last Update: 6/1/25</p>
+<p align="left">Last Update: 1/16/26</p>
 
 ###
 
@@ -131,9 +131,11 @@ I've participated in a variety of hackathons, applying my skills in machine lear
 
 [![Devpost](https://img.shields.io/badge/Devpost-Profile-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/ryan-ni)
 
-- **6 Hackathon Wins**
-- **6 Hackathons Attended**
+- **8 Hackathon Wins**
+- **8 Hackathons Attended**
 
+8 🏆 Grand Prize - Top 3/350+ Hackers @ SB Hacks XII      - Apple Watch  
+7 🏆 Top 5/1500+ Apple Interns @ Apple iContest 2025      - Pitched idea to 7 Apple Executives + iContest Finalist Plaque + Custom iContest Shirt
 6 🏆 #1 Best Project Overall @ IEEE 2024 SPRING QP        - Cash Prize ($300)  
 5 🏆 #2 Best Tech Innovation @ Bruin AI 2025              - NH-D15 D-Type Premium Cooler + $250 API Credits   
 4 🏆 #1 Best Project Overall @ IEEE 2024 FALL QP          - Cash Prize ($300)   
