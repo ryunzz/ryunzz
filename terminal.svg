@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">        X++;++x+;:::::::;+x$</tspan>
+<tspan x="15" y="50">     x:..........:...:::::.:;X</tspan>
+<tspan x="15" y="70">  $X+:..............:..:....::x$</tspan>
+<tspan x="15" y="90">$x;:.......................::::xX</tspan>
+<tspan x="15" y="110">::............::;;;:.......:::::;X</tspan>
+<tspan x="15" y="130">;:........:..:;;xXXXXxx;:..::::::+$</tspan>
+<tspan x="15" y="150">+:.........::;:+x+XXXXXx+:::::::::X</tspan>
+<tspan x="15" y="170"> +.........::;+++XXXXXXx+;:::::..:;</tspan>
+<tspan x="15" y="190"> ;........:::;++x+XXXXXx+::::::...:</tspan>
+<tspan x="15" y="210"> +.......:;;++;;+XXXx+++;::::....:X</tspan>
+<tspan x="15" y="230"> $;....:;;:;;+++xXXXxxxXXx+;:::::x</tspan>
+<tspan x="15" y="250">   +.:;+++xxxxxxxXXXx+;+++xx;..:x</tspan>
+<tspan x="15" y="270">   x:;+xxXXXXXxxxXXXXXXXXXXXx;;X</tspan>
+<tspan x="15" y="290">   X;;+xxXXXXxxxX$XXXXXX$$$Xx+X</tspan>
+<tspan x="15" y="310">    x+++xxxxx+++xxxxXXXX$$XXxX$</tspan>
+<tspan x="15" y="330">     X++xxxx++xxXXXXXXXXXXXXX$</tspan>
+<tspan x="15" y="350">      x+xxXX++XXX$$XxxXXXXX$</tspan>
+<tspan x="15" y="370">       ++xxXxxxxXXXXXXXXXX$</tspan>
+<tspan x="15" y="390">       X;++xXXXXXXX$XXXXxX</tspan>
+<tspan x="15" y="410">       $+;;+xXXX$$$XXxxxX$</tspan>
+<tspan x="15" y="430">       X+++;;++xxxxxxXXXXX+$</tspan>
+<tspan x="15" y="450">     x.:+++++++xxXXXX$$$$Xx:X</tspan>
+</text>
+<text x="370" y="30" fill="#c9d1d9">
+<tspan x="370" y="30">ryunzz.tech</tspan> -————————————————————————————————————————————-—-
+<tspan x="370" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10, iOS 26, Linux</tspan>
+<tspan x="370" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">20 years</tspan>
+<tspan x="370" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">UC San Diego</tspan>
+<tspan x="370" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Computer Science, Film</tspan>
+<tspan x="370" y="130" class="cc">. </tspan>
+<tspan x="370" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Rust, Python, TS/JS, C++, Swift</tspan>
+<tspan x="370" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Training</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">JAX, PyTorch, CUDA, ROCm, TensorFlow</tspan>
+<tspan x="370" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">English, Chinese (Mandarin, Cantonese), Japanese</tspan>
+<tspan x="370" y="210" class="cc">. </tspan>
+<tspan x="370" y="250">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="370" y="270" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">ryan.alexander.ni@gmail.com</tspan>
+<tspan x="370" y="290" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">ryan-ni</tspan>
+<tspan x="370" y="310" class="cc">. </tspan><tspan class="key">Devpost</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">ryan-ni</tspan>
+<tspan x="370" y="330" class="cc">. </tspan><tspan class="key">YouTube</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">ryun-zz</tspan>
+<tspan x="370" y="350" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">ryanxani</tspan>
+<tspan x="370" y="370" class="cc">. </tspan>
+<tspan x="370" y="410">- Hackathon Stats</tspan> -————————————————————————————————————————-—-
+<tspan x="370" y="430" class="cc">. </tspan><tspan class="key">Wins/Top Placements</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">16</tspan> {<tspan class="key">Attended</tspan>: <tspan class="value">18</tspan>}
+<tspan x="370" y="450" class="cc">. </tspan><tspan class="key">Miles Traveled</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">15,324</tspan>
+<tspan x="370" y="470" class="cc">. </tspan><tspan class="key">Colleges Visited</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">11</tspan>
+</text>
+</svg>
